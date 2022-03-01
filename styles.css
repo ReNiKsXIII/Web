@@ -1,20 +1,17 @@
 @charset "utf-8";
 
 
-a:link{
 a{
     color:cyan;
-}
-a:visited{
-    color:green;
     text-decoration:none;
+a {
+    color: red;
 }
 
 a:hover{
     color:red;
-    text-decoration:none;
-}
-a:active{
-    color:black;
     text-decoration:underline;
 } 
+a:hover {        
+    text-decoration: none;
+   } 

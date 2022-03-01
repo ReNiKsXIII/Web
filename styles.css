@@ -1,9 +1,8 @@
 @charset "utf-8";
 
-p[title="hi"]{
-    color:red;
 
 a[href^="http://"] {
+a[href$=".html"] {
     text-decoration: none;
     color: red;
 } 

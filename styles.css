@@ -1,17 +1,14 @@
 @charset "utf-8";
 
 
-a{
-    color:cyan;
-    text-decoration:none;
 a {
+a.zzz {
     color: red;
 }
 
-a:hover{
-    color:red;
-    text-decoration:underline;
-} 
 a:hover {        
     text-decoration: none;
    } 
+    a.zzz:hover {
+        text-decoration: none;
+    } 

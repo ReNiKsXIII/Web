@@ -1,8 +1,16 @@
-charset "utf-8";
+@charset "utf-8";
 
 
-a[href$=".html"] {
 p[title*="privet hi"] {
     text-decoration: none;
     color: red;
 } 
+DIV[class|="top-"] {
+    background: #306589; /* Цвет фона */
+    color: #acdb4c; /* Цвет текста */
+    padding: 5px; /* Поля */
+}
+
+    DIV[class|="top-"] A {
+        color: #fff; /* Цвет ссылок */
+    } 

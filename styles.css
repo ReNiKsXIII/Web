@@ -1,9 +1,5 @@
-h2:nth-of-type(2) {
+li:not(:first-child)  { 
+color: red; 
+li:not(:first-child):not(:last-child) {
     color: red;
-}
-h2:nth-last-of-type(2) {
-    color: green;
-p:only-of-type {
-  background: red;
-  color: green;
 } 

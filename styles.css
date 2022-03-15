@@ -1,9 +1,12 @@
-p  { color: rgb(255, 236, 114);; }
-h1 { color: #A020F0; }
-h2 { color: #EE6600; }
-h3 { color: #34F9FE; }
 p  { 
     color: #A020F0; 
     width: 300px;
 }
 
+
+
+
+ td {
+    width: 400px;
+    height: 300px;
+} 

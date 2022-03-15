@@ -1,4 +1,17 @@
-p[title*='привет'] {
-p[class^='top-'] {
+a:link {
+    color:blue;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    text-decoration: none;
+    text-decoration: underline;
     color: red;
+}
+a:active {
+    color: black;
+a:active, a:visited, a:link  {
+    text-decoration: none;
+    color: blue;
 } 

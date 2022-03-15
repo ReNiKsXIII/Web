@@ -1,13 +1,10 @@
-#block a.zzz {
-.block a.zzz {
+li:only-child {
     color: red;
+li {
+    border: 1px solid red;
+    width: 100px;
 }
-#block a.zzz:hover {
-.block a.zzz:hover {
-    text-decoration: none;
-}
-
-<!-- Данный селектор красит все ссылки класса zzz блока block в красный --> 
-<!-- В состояния 'hover' класса zzz блока block убирает подчеркивание --> 
-<!-- Данный селектор красит все ссылки класса zzz внутри блока класса block в красный --> 
-<!-- В состояния 'hover' класса zzz внутри блока класса block убирает подчеркивание --> 
+li:empty {
+    border: 1px solid blue;
+    width: 100px;
+} 

@@ -1,4 +1,4 @@
-ul {
-    list-style-type: circle;
-    list-style-type: none;
+ol {
+    list-style-type: lower-greek;
+    list-style-type: upper-alpha;
 } 

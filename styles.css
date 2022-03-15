@@ -1,4 +1,5 @@
-#elem li.text {
-.eee.zzz.ccc {
+#elem.bbb.zzz {
+    color: orange;
+h2#elem.bbb {
     color: red;
 } 

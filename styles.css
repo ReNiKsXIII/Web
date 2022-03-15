@@ -1,9 +1,7 @@
-@@ -1,6 +1,3 @@
-ul i {
-p b i {
+.odd {
     color: red
 }
-p i {
+.eve {
     color: green
-}  
+    color: red
 } 

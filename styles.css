@@ -1,7 +1,13 @@
+.zzz {
+    font-size: 30px;
 }
-.d2 {
-    color: green;
+.zzz, .eee {
+    line-height: 1.5;
+    font-family: Arial
+.ggg {
+    font-size: 35px;
 }
-.d3 {
-    color: blue;
-}
+.eee, .zzz, .ggg {
+    text-align: center;
+    font-family: Arial;
+} 

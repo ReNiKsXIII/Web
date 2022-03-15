@@ -1,13 +1,4 @@
-.zzz {
-    font-size: 30px;
-}
-.zzz, .eee {
-    line-height: 1.5;
-    font-family: Arial
-.ggg {
-    font-size: 35px;
-}
-.eee, .zzz, .ggg {
-    text-align: center;
-    font-family: Arial;
+.eee p.bbb {
+.eee .bbb .kkk {
+    color: red;
 } 

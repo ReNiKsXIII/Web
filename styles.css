@@ -1,9 +1,6 @@
 p {
-    text-align: justify; 
-    width: 30px;
-    width: 300px;
-    font-size: 30px;
-    font-family: Arial;
-    line-height: 15;
-    line-height: 1.5;
-} 
+    font:normal 13pt/20pt Times New Roman;
+    text-indent: 50px;
+    text-align: justify;
+    width: 400px;
+}

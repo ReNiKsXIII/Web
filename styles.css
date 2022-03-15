@@ -1,8 +1,15 @@
-@@ -1,6 +1,3 @@
-p {
+@@ -1,9 +1,10 @@
+i {
+    font-size: 30px;
+}
 ul {
     color: blue;
+    font-size: 20px;
 }
-b {
+li {
     color: red;
+}
+i {
+    color: green;
+    font-weight: bold;
 } 

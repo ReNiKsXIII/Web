@@ -1,5 +1,4 @@
-#elem.bbb.zzz {
-    color: orange;
-h2#elem.bbb {
+p[title*='привет'] {
+p[class^='top-'] {
     color: red;
 } 

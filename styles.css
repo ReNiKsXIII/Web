@@ -19,4 +19,8 @@ h2 {
 h3 {
     color: red;
     font-family: "Tahoma";
+    text-align: justify; 
+    width: 30px;
+    font-family: Arial;
+    line-height: 15;
 } 

@@ -1,8 +1,11 @@
 p {
-    text-indent: 50px;
-    text-align: justify;
-    width: 400px;
+    font-size: 30px;
+    color:black;
+    text-decoration: underline;
+}
+
+a {
     font-size: 30px;
     color:red;
-    text-decoration: overline;
+    text-decoration: none;  
 } 

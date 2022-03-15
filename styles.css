@@ -1,10 +1,9 @@
-p {
-    color: red;
-} 
 p  { color: orange; }
 h1 { color: green; }
 h2 { color: blue; }
 h3 { color: red; }
-
-
+p  { color: rgb(255, 236, 114);; }
+h1 { color: #A020F0; }
+h2 { color: #EE6600; }
+h3 { color: #34F9FE; }
 

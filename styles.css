@@ -1,35 +1,3 @@
-#elem {
-    border: 1px solid red;
-.parent {
-    text-align: center;
-    padding: 10px 0;
-    border: 1px solid red;
-}
-#elem1 {
-    height: 100px;
-    width: 100px;
-    border: 1px solid green;
-    margin: 10px auto;
-}
-#elem2 {
-    height: 100px;
-    width: 200px;
-    border: 1px solid green;
-    margin: 10px auto;
-}
-#elem3 {
-    height: 100px;
-    width: 300px;
-    border: 1px solid green;
-    margin: 10px auto;
-.parent1 {
-    text-align: right;
-    padding: 10px 0;
-    border: 1px solid red;
-}
-.parent2 {
-    text-align: right;
-    padding: 10px 0;
-    border: 1px solid red;
-    padding-right: 20px;
+p {
+    color: red;
 } 

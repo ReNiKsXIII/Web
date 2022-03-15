@@ -1,10 +1,9 @@
-li:only-child {
+h2:nth-of-type(2) {
     color: red;
-li {
-    border: 1px solid red;
-    width: 100px;
 }
-li:empty {
-    border: 1px solid blue;
-    width: 100px;
+h2:nth-last-of-type(2) {
+    color: green;
+p:only-of-type {
+  background: red;
+  color: green;
 } 

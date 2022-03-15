@@ -1,12 +1,32 @@
- td {
-    width: 400px;
-    height: 300px;
 table {
     width:500px; height: 300px;
+p {
+    color: rgb(255,98,0);
+    width: 300px;
+    text-align: justify; width: 300px;
+}
+h1 {
+    color: green; 
+    text-align: left;
+}
+h2 {
+    color: #c10087;
+    text-align: center;
+    width: 300px;
+}
+h3 {
+    color: red;
 }
 
 td {
     font-weight: bold;
+    width: 400px; height: 300px;
     text-align: center;
     font-weight: normal;
+}
+table {
+    height: 500px;
+}
+th {
+    text-align: left;
 } 

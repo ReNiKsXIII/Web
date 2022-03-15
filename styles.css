@@ -1,21 +1,22 @@
+p {
+    font-family: "Georgia Italic Impact";
+}
+
 h1 {
     color: green;
     text-align: center;
     font-size: 50px;
+    font-family: "Comic Sans MS";
 }
 h2 {
-    color: #c10087;
     text-align: center;
     width: 300px;
     font-style: italic;
     font-size: 40px;
     font-weight: normal;
+    font-family: "Palatino Linotype";
 }
-
 h3 {
     color: red;
-}
-
-p {
-    font-style: italic;
+    font-family: "Tahoma";
 } 
